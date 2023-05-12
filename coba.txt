@@ -1,8 +1,0 @@
- <div >
-              <label class="swap swap-flip w-60 mb-4">
-                <!-- this hidden checkbox controls the state -->
-                <input type="checkbox" class="rounded-xl shadow-2xl" />
-                <div class="swap-on"><img  src="dist/img/card-back.png" alt="nisfu" class="max-w-full mx-auto relative z-10  border-primary rounded-xl border-2" /></div>
-                <div class="swap-off "><img src="dist/img/card-front.png" alt="nisfu" class="max-w-full mx-auto relative z-10 border-primary rounded-xl border-2" /></div>
-              </label>
-              </div>
