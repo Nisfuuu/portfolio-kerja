@@ -71,3 +71,11 @@ body {
 .switch input[type="checkbox"] {
   display: none;
 }
+/* aos */
+.aos-init {
+  visibility: hidden;
+}
+
+.aos-animate {
+  visibility: visible;
+}
